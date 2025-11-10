@@ -1,0 +1,4 @@
+pymupdf
+streamlit
+datetime
+deep-translator
