@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 streamlit>=1.36
 PyMuPDF==1.24.10
 deep-translator>=1.11
-=======
-streamlit
-PyMuPDF
-deep-translator
->>>>>>> 8f4b70a833c57c3faf2263a7e1d0235b9c3f9cad
